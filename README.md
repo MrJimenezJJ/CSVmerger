@@ -1,5 +1,5 @@
 # CSVmerger
-Simple python program that merges multiple csv files into one
+Simple python program that merges multiple csv files into one (Uses panda.concat([]) from panda.py)
 
 -Data folder contains the files to be merged.
 
